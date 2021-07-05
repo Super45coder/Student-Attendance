@@ -1,0 +1,18 @@
+#submit{
+  margin-top:20px;
+  margin-bottom:20px;  
+}
+#sort{
+    margin-top:20px;
+    margin-bottom:20px;
+    display:none;
+}
+input{
+    margin:10px;
+}
+html{
+  background:linear-gradient(red 0%, orange 20%,yellow 40%,green 60%,blue 80%, purple 100%);
+}
+#names{
+    text-align:left;
+}
